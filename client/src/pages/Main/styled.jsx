@@ -420,6 +420,7 @@ export const BigRestaurantImageContainer = styled.div`
   padding-bottom: 30px;
   width: 100%;
   /* height: 480px; */
+  max-height: 500px;
   height: calc(100% - 120px);
 
   /* PC */
